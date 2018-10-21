@@ -1,0 +1,48 @@
+
+.flipkart-navbar-button {
+    background-color: #ff9600;
+    border: 0 none;
+    #border-radius: 0 6px 6px 0;
+    color: white;
+    padding: 10px 0px;
+    height: 62px;
+    cursor: pointer;
+    font-size:23px;
+float:left;
+}
+
+
+.flipkart-navbar-input {
+    padding: 16px 18px;
+    #border-radius: 6px 0 0 6px;
+    border: 0 none;
+    outline: 0 none;
+    font-size: 20px;
+float:left;
+
+}
+
+.btn-twitter {
+background-color: #55acee!important;
+    color: #fff!important;
+}
+
+.btn-facebook {
+background-color: #3b5998!important;
+    color: #fff!important;
+}
+
+.btn-youtube {
+background-color: #db1918!important;
+    color: #fff!important;
+}
+
+.btn-google {
+background-color: #fff!important;
+    color: #000!important;
+}
+
+.btn-reddit {
+background-color: #f54b00!important;
+    color: #fff!important;
+}

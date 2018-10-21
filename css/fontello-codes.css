@@ -1,0 +1,9 @@
+
+.icon-home:before { content: '\e800'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-youtube-play:before { content: '\f16a'; } /* '' */
+.icon-google:before { content: '\f1a0'; } /* '' */
+.icon-facebook-official:before { content: '\f230'; } /* '' */
+.icon-reddit-alien:before { content: '\f281'; } /* '' */
+.icon-facebook-squared:before { content: '\f308'; } /* '' */
